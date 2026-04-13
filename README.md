@@ -1,4 +1,4 @@
-Per un corretto utilizzo utilizzare python 3.10.
+We recommend using Python 3.10 to ensure the libraries work properly.
 
 This project implements a complete pipeline for analyzing facial movements from video data in order to distinguish between healthy subjects and patients with Parkinson’s disease, as well as to study emotional expressions.
 
