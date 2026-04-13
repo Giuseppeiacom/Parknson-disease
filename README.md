@@ -26,7 +26,7 @@ To make the analysis robust to head movements, a stabilization strategy is appli
 
 A temporal strategy is also applied by comparing expressive frames with the neutral baseline. This allows the computation of a displacement vector, representing how each landmark moves from a neutral to an emotional state.
 
-#### 📌 Classification Pipeline
+## 📌 Classification Pipeline
 
 This module is responsible for classifying subjects as **healthy** or affected by **Parkinson’s disease** using the features extracted from the video analysis phase.
 
